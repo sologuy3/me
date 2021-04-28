@@ -7,45 +7,35 @@ export default class Introduction extends Component {
         <section id="colorlib-hero" className="js-fullheight" data-section="home">
           <div className="flexslider js-fullheight">
             <ul className="slides">
-              <li style={{backgroundImage: 'url(images/img_bg.jpg)'}}>
+              <li style={{backgroundImage: 'url(images/rx8.jpg)'}}>
                 <div className="overlay" />
                 <div className="container-fluid">
                   <div className="row">
                     <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
                       <div className="slider-text-inner js-fullheight">
                         <div className="desc">
-                          <h1>Hi! <br />I'm Dhruv</h1>
-                          <p><a className="btn btn-primary btn-learn" href="https://docs.google.com/document/d/15coSa2rnZcdywihM-pWTvoGqE65JAkxQAh6JDBNrF2Q/edit?usp=sharing" target="_blank" rel="noopener noreferrer">View CV<i className="icon-download4" /></a></p>
+                          <h1>Hello there! <br />I'm Yohan</h1>
+                          <h2>I work in Product and Mobility </h2>
+                          <h2>I've also been known to play around with the Internet of Things</h2>
+                          <p><a className="btn btn-primary btn-learn" href="https://docs.google.com/document/d/1DEtOwq-4VCQTkdk8G3TqzJB28p-3elj-KiJSM0xyI8M/edit?usp=sharing" target="_blank" rel="noopener noreferrer">CV<i className="icon-download4" /></a></p>
                         </div>
                       </div>
                     </div>
                   </div>
                 </div>
               </li>
-              <li style={{backgroundImage: 'url(images/img_bg.jpg)'}}>
+              <li style={{backgroundImage: 'url(images/tram.jpg)'}}>
                 <div className="overlay" />
                 <div className="container-fluid">
                   <div className="row">
                     <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
                       <div className="slider-text-inner">
                         <div className="desc">
-                          <h1>I love building<br /> THINGS !!</h1>
-                          <p><a className="btn btn-primary btn-learn" href="https://github.com/dbarochiya" target="_blank" rel="noopener noreferrer">View Projects <i className="icon-briefcase3" /></a></p>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </li>
-              <li style={{backgroundImage: 'url(images/img_bg.jpg)'}}>
-                <div className="overlay" />
-                <div className="container-fluid">
-                  <div className="row">
-                    <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
-                      <div className="slider-text-inner">
-                        <div className="desc">
-                          <h1>I often <br/>Write ... </h1>
-                          <p><a className="btn btn-primary btn-learn" href="https://dhruvbarochiya.me/" target="_blank" rel="noopener noreferrer">View Blog <i className="icon-book" /></a></p>
+                          <h2>I work at</h2>
+                          <h1>WunderMobility</h1>
+                          <h2>in Hamburg, Germany as a </h2>
+                          <h1>Product Owner</h1>
+                          <p><a className="btn btn-primary btn-learn" href="http://wundermobility.com/" target="_blank" rel="noopener noreferrer">Website <i className="icon-briefcase3" /></a></p>
                         </div>
                       </div>
                     </div>
