@@ -13,7 +13,7 @@ class App extends Component {
          	<Sidebar></Sidebar>
 				<div id="colorlib-main">
 					<Introduction></Introduction>
-					{/*<About></About>*/}
+					{<About></About>}
 					{/*<Timeline></Timeline>*/}
           	</div>
       	</div>
